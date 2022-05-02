@@ -1,0 +1,2 @@
+# QASystemOnMedicalKG-Plus
+项目是基于中科院软件所刘焕勇老师在github上的开源项目，基于知识图谱的医药领域问答项目
